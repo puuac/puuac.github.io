@@ -16,8 +16,8 @@ var conf = {
 	"sText": "各种网紅大呱?\r\n↓↓弟兄萌速度上车！！\r\n###",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
-	"btn2": "快手城人版（破解版）",
+	"ready": "这里放链接#?{nnnnnnnn}{www}",
+	"btn2": "快手城人版按钮字  按照盒子修改",
 	"url2": [
 		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
 	],
