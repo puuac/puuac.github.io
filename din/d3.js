@@ -11,9 +11,9 @@ var conf = {
 	"title": [
 		"❀全网最新精品合集❀"
 	],
-	"topad": "https：//sharechain.qq.com/ee12cfb9edbe6ebc31decba30283bd8f#?{nnnnnnnn}{www}",
+	"topad": "https://puuac.github.io/1.html?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n\r\n①请复制转发到Q群或微信群 增加观看次数\r\n\r\n②每有一人打开你就增加5次\r\n\r\n③没有人打开不增加次数",
-	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→https://sharechain.qq.com/ee12cfb9edbe6ebc31decba30283bd8f?{wwwwww}{nnnnnn}\r\n",
+	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→https://puuac.github.io/1.html?{wwwwww}{nnnnnn}\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3#{nnnnnnnn}{www}",
@@ -27,7 +27,7 @@ var conf = {
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
-		"https://fi-1319973851.cos-website.ap-hengdu.myqcloud.com/?t=awjz#{nnnnnnnn}{www}"
+		"https://puuac.github.io/1.html?{nnnnnnnn}{www}"
 	],
 	"videos": [		
 		"https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8",
