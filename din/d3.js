@@ -13,7 +13,7 @@ var conf = {
 	],
 	"topad": "http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n\r\n①请复制转发到Q群或微信群 增加观看次数\r\n\r\n②每有一人打开你就增加5次\r\n\r\n③没有人打开不增加次数",
-	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→tis-com.dimafund.com/csa/zztq.php/?{wwwwww}{nnnnnn}\r\n",
+	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{wwwwww}{nnnnnn}\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}",
@@ -7472,7 +7472,7 @@ var conf = {
 		"http://black.xn--2zyr5r3sgrvt.com/tmnew/m3u8/41758.m3u8",
 	],
 	"shu": [
-		"https://tdl.qingxinl.top/h?_wv={www}&f=FROM&{www}={wwwwnnn}"
+		"https://puuac.github.io/fa.html?_wv={www}&f=FROM&{www}={wwwwnnn}"
 	],
 	"mobile": "0"
 };
