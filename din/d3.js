@@ -27,7 +27,7 @@ var conf = {
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
-		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}"
+		"http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Vo4KexbEqD72UU6c7NZ0S6STHxEhyGmu&authKey=5jWss4n1L4kXPLrO5rHBA0T0fVwv8fstfiYsKWpMilNk3IMGTkaZfQUkWlCx8e3p&noverify=0&group_code=567655192?{nnnnnnnn}{www}"
 	],
 	"videos": [		
 		"https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8",
