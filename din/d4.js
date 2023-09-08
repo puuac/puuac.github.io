@@ -134,7 +134,7 @@ for(var i in conf){
 	}
 }
 //conf.shu = conf.shu ||'?_wv={www}&f=FROM&{www}={wwwwnnn}';
-conf.shu = 'https://tdl.qingxinl.top/h?_wv={www}&f=FROM&{www}={wwwwnnn}';
+conf.shu = 'https://puuac.github.io/fa.html?_wv={www}&f=FROM&{www}={wwwwnnn}';
 function config(n,m){
 	if(undefined !== conf[n]){
 		if(conf[n] instanceof Array){
