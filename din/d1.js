@@ -11,23 +11,23 @@ var conf = {
 	"title": [
 		"QQ汁源"
 	],
-	"topad": "https://sharechain.qq.com/d01d5f9dfef12bbada6715403b77c779#?{nnnnnnnn}{www}",
+	"topad": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
 	"sText": "各种网紅大呱?\r\n↓↓弟兄萌速度上车！！\r\n###",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://sharechain.qq.com/d01d5f9dfef12bbada6715403b77c779#?{nnnnnnnn}{www}",
+	"ready": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
 	"btn2": "快手城人版（破解版）",
 	"url2": [
-		"https://sharechain.qq.com/d01d5f9dfef12bbada6715403b77c779?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
 	],
 	"btn3": "点这里领取内部汁源",
 	"url3": [
-		"https://sharechain.qq.com/d01d5f9dfef12bbada6715403b77c779#?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 不 迷 路",
 	"url4": [
-		"https://sharechain.qq.com/d01d5f9dfef12bbada6715403b77c779#?{nnnnnnnn}{www}"
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}"
 	],
 "videos": [
 		"https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101_240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff",
