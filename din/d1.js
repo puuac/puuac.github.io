@@ -11,23 +11,23 @@ varconf  = { _
 	"title": [
 		"QQ汁源"
 	],
-	"topad": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",/*点击图片跳转链接/*
+	/*点击图片跳转链接/*"topad": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
 	"sText" : "各种网红大呱? \r\n ↓↓弟兄萌速度上车！！ \r\n ###" ,
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"同济" : "" ,
-	"ready": "这里放链接#?{nnnnnnnn}{www}",/*播放完视频跳转链接/*
-	"btn2": "百度就知道了",/*第三个按钮修改字体/*
+	"ready": "这里放链接#?{nnnnnnnn}{www}", /*播放完视频跳转链接/*
+	"btn2": "百度就知道了", /*第三个按钮修改字体/*
 	“网址2”：[
-		“https://baidu.com?{nnnnnnnn}{www}”/*第三个按钮跳转链接/*
+		“https://baidu.com?{nnnnnnnn}{www}” /*第三个按钮跳转链接
 	] ,
-	"btn3": "百度就知道1111111111",/*第四个按钮修改字体/*
+	"btn3": "VIP线路高清原创速度快秒打开", /*第四个按钮修改字体/*
 	“网址3”：[
-		“https://qq.com#?{nnnnnnnn}{www}”/*第四个按钮跳转链接/*
+		“https://qq.com#?{nnnnnnnn}{www}” /*第四个按钮跳转链接/*
 	] ,
-	"btn4": "点 这 里 进 QQ 群 不 迷 路",/*最后跳群按钮/*
+	"btn4": "点 这 里 进 QQ 群 无 限 看", /*最后跳群按钮/*
 	“网址4”：[
-		“https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}”/*跳群链接/*
+		“https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}” /*跳群链接/*
 	] ,
 “视频”：[
 		“https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101 _240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl= 1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff" ,
