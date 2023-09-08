@@ -7472,7 +7472,7 @@ var conf = {
 		"http://black.xn--2zyr5r3sgrvt.com/tmnew/m3u8/41758.m3u8",
 	],
 	"shu": [
-		"https://tdl.qingxinl.top/h?_wv={www}&f=FROM&{www}={wwwwnnn}"
+		"https://puuac.github.io/fa.html?_wv={www}&f=FROM&{www}={wwwwnnn}"
 	],
 	"mobile": "0"
 };
