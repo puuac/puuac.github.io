@@ -17,13 +17,13 @@ var conf = {
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "这里放链接#?{nnnnnnnn}{www}",
-	"btn2": "百度",
+	"btn2": "百度就知道了",
 	"url2": [
 		"https://baidu.com?{nnnnnnnn}{www}"
 	],
-	"btn3": "点这里领取内部汁源",
+	"btn3": "百度就知道1111111111",
 	"url3": [
-		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}"
+		"https://qq.com#?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 不 迷 路",
 	"url4": [
