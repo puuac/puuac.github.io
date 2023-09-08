@@ -1,45 +1,45 @@
 //参数代码
-varconf = {  _
-	“路径”：“0”，
-	“人口普查”：“1”，
-	“拒绝”：“0”，
-	“vdef”：“5”，
-	“瓦德”：“5”，
-	“缓存”：“86400”，
-	"adth1": "分享好友后获得+5次的刷新机会,>"\"width:90%;margin-top:13px;border-radius:5px;\" style=\"images/here.png\"
-	"adthe": "分享好友后获得+5次的刷新机会,
-	“标题”：[
-		"✽全网最新精品合集✽"
-	] ,
-	"topad" : "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}" ,
+var conf = {
+	"path": "0",
+	"census": "1",
+	"deny": "0",
+	"vdef": "5",
+	"vadd": "5",
+	"cache": "86400",
+	"adth1": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
+	"adthe": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！",
+	"title": [
+		"❀全网最新精品合集❀"
+	],
+	"topad": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
-	"sText" : "各种网红大呱? \r\n ↓↓弟兄萌速度上车！！ \r\n ###" ,
+	"sText": "各种网紅大呱?\r\n↓↓弟兄萌速度上车！！\r\n###",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
-	"同济" : "" ,
-	"ready": "这里放链接#?{nnnnnnnn}{www}",
+	"tongji": "",
+	"ready": "https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}",
 	"btn2": "最新色播APP-点这下载",
-	“网址2”：[
-		“https://baidu.com?{nnnnnnnn}{www }”
-	] ,
+	"url2": [
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{nnnnnnnn}{www}"
+	],
 	"btn3": "VIP线路高清原创速度快秒打开",
-	“网址3”：[
-		“https://qq.com#?{nnnnnnnn}{www}”
-	] ,
-	"btn4": "点 这 里 进 QQ 群 无 限 看",
-	“网址4”：[
-		“https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}”
-	] ,
-“视频”：[
-		“https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101 _240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl= 1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff" ,
-		“https://t22.cdn2020.com/video/m3u8/2023/08/27/13bea286/index.m3u8”，
-		“https://t18.cdn2020.com:12342/video/m3u8/2022/05/08/14f174d7/index.m3u8 ”，
-		“https://t4s.cdn2020.com/video/m3u8/2020/08/16/170a79ed/index.m3u8 ”，
-		“ https://t4s.cdn2020.com/video/m3u8/2020/08/16/b8955620/index.m3u8”，"https://t4s.cdn2020.com/video/m3u8/2020/08/16/b8955620 /index.m3u8",
-		“ https://t22.cdn2020.com/video/m3u8/2023/08/13/1e41a5fa/index.m3u8”，“https://t22.cdn2020.com/video/m3u8/2023/08/13/1e41a5fa /index.m3u8",
-		“ https://t22.cdn2020.com/video/m3u8/2023/08/15/e34a85ff/index.m3u8”，"https://t22.cdn2020.com/video/m3u8/2023/08/15/e34a85ff /index.m3u8",
-		“https://t22.cdn2020.com/video/m3u8/2023/08/15/6001ad1b/index.m3u8”，"https://t22.cdn2020.com/video/m3u8/2023/08/15/6001ad1b/index.m3u8",
-		“https://t22.cdn2020.com/video/m3u8/2023/08/15/9ff5a619/index.m3u8”，"https://t22.cdn2020.com/video/m3u8/2023/08/15/9ff5a619/index.m3u8",
-		“https://b-hls-07.doppiocdn.org/hls/117376122/117376122_480p.m3u8”，"https://b-hls-07.doppiocdn.org/hls/117376122/117376122_480p.m3u8",
+	"url3": [
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}"
+	],
+	"btn4": "点 这 里 进 QQ 群 不 迷 路",
+	"url4": [
+		"https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715#?{nnnnnnnn}{www}"
+	],
+"videos": [
+		"https://dv-h.phncdn.com/hls/videos/202012/08/377864591/,201223_2101_1080P_4000K,201223_2101_720P_4000K,201223_2101_480P_2000K,201223_2101_240P_1000K,_377864591.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1693111724&l=0&ipa=203.91.85.1&hash=94ad08df64c64675368d1f9ad1c109ff",
+		"https://t22.cdn2020.com/video/m3u8/2023/08/27/13bea286/index.m3u8",
+		"https://t18.cdn2020.com:12342/video/m3u8/2022/05/08/14f174d7/index.m3u8",
+		"https://t4s.cdn2020.com/video/m3u8/2020/08/16/170a79ed/index.m3u8",
+		"https://t4s.cdn2020.com/video/m3u8/2020/08/16/b8955620/index.m3u8",
+		"https://t22.cdn2020.com/video/m3u8/2023/08/13/1e41a5fa/index.m3u8",
+		"https://t22.cdn2020.com/video/m3u8/2023/08/15/e34a85ff/index.m3u8",
+		"https://t22.cdn2020.com/video/m3u8/2023/08/15/6001ad1b/index.m3u8",
+		"https://t22.cdn2020.com/video/m3u8/2023/08/15/9ff5a619/index.m3u8",
+		"https://b-hls-07.doppiocdn.org/hls/117376122/117376122_480p.m3u8",
 		"https://z100.cdn2020.com/video/m3u8/2020/06/17/6fc8e49f/index.m3u8",
 		"https://z100.cdn2020.com/video/m3u8/2020/06/13/f7f3a1d2/index.m3u8",
 		"https://z100.cdn2020.com/video/m3u8/2019/08/25/ae449911/index.m3u8",
@@ -59,8 +59,8 @@ varconf = {  _
 		"https://t22.cdn2020.com/video/m3u8/2023/08/16/b1ee7f1e/index.m3u8",
 		"https://t22.cdn2020.com/video/m3u8/2023/08/09/004b0e30/index.m3u8",
 		"https://t10t13t16.cdn2020.com/video/m3u8/2021/08/17/46db88c7/index.m3u8",
-		“https://t22.cdn2020.com/video/m3u8/2023/07/29/a7a03f89/index.m3u8”，
-		“https://t22.cdn2020.com/video/m3u8/2023/07/20/82a012bb/index.m3u8”，
+		"https://t22.cdn2020.com/video/m3u8/2023/07/29/a7a03f89/index.m3u8",
+		"https://t22.cdn2020.com/video/m3u8/2023/07/20/82a012bb/index.m3u8",
 		"https://t22.cdn2020.com/video/m3u8/2023/07/05/3c070c98/index.m3u8",
 		"https://t22.cdn2020.com/video/m3u8/2023/05/29/dde07d3e/index.m3u8",
 		"https://t21.cdn2020.com/video/m3u8/2023/05/13/96d815f0/index.m3u8",
