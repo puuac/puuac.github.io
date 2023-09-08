@@ -1,49 +1,49 @@
 //参数代码
-var conf = {
-	"path": "0",
-	"census": "1",
-	"deny": "0",
-	"vdef": "10",
-	"vadd": "10",
-	"cache": "86400",
-	"adth1": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
-	"adthe": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！",
-	"title": [
-		"❀全网最新精品合集❀"
-	],
-	"topad": "http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}",
+varconf = {  _
+	“路径”：“0”，
+	“人口普查”：“1”，
+	“拒绝”：“0”，
+	“vdef”：“10”，
+	“瓦德”：“10”，
+	“缓存”：“86400”，
+	"adth1": "分享好友后获得+5次的刷新机会,>"\ “宽度：90%；顶部边距：13px；边框半径：5px； \”样式= \“ images/here..png \”
+	"adthe": "分享好友后获得+5次的刷新机会,
+	“标题”：[
+		"✷全网最新精品合集✷"
+	] ,
+	"topad" : "https://sharechain.qq.com/ee12cfb9edbe6ebc31decba30283bd8f?{nnnnnnnn}{www}" ,
 	"sInfo": "没有观看次数了！\r\n\r\n①请复制转发到Q群或微信群 增加观看次数\r\n\r\n②每有一人打开你就增加5次\r\n\r\n③没有人打开不增加次数",
-	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n😍😍😍\r\n请+总裙→https://sharechain.qq.com/5c3750025a17bd97d5bc64fce6497715?{wwwwww}{nnnnnn}\r\n",
+	"sText": "给大家分享个看篇的好东西@兄弟萌快上车！！###\r\n\r\n如果上面打不开\r\n\r\n请+总裙→https://sharechain.qq.com/ee12cfb9edbe6ebc31decba30283bd8f?{wwwwww}{nnnnnn}\r\n",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
-	"tongji": "",
-	"ready": "http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}",
+	"同济" : "" ,
+	“准备好”：“http://cdnauth.ishanpiao.com/ciz？{nnnnnnnn}{www}”，
 	"btn2": "最新色播APP-点这下载",
-	"url2": [
-		"http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}"
-	],
+	“网址2”：[
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www }”
+	] ,
 	"btn3": "VIP线路高清原创速度快秒打开",
-	"url3": [
-		"http://mockplus-static.oss.ynvspm.cn/bf/baidu.com/kds.php?{nnnnnnnn}{www}"
-	],
+	“网址3”：[
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v？{nnnnnnnn}{www }”
+	] ,
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
-	"url4": [
-		"http://jtq.infutian.org/csa/tq.php?{nnnnnnnn}{www}"
-	],
-	"videos": [		
-		"https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6ca3b42f2c7599de5c9fc44c8cb3537f.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023042813/b20ad81c5974b066.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023042722/df9976e2d1d76031.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023050615/f24b1997b7c8a46d.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893f17b55.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea19d335.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023050522/dae7be06d65201e9.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cd668271c757aa5ef5bf555e47cf1c1.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023042800/9ebe320102c53264.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/50b2596024f51b226300e44f4ec9706e.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2022073018/c8a9037c51e7b097.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/090b69c109245fddec9f40dd312d67a8.m3u8",
+	“网址4”：[
+		“http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Vo4KexbEqD72UU6c7NZ0S6STHxEhyGmu&authKey=5jWss4n1L4kXPLrO5rHBA0T0fVwv8fstfiYsKWpMilNk3IMGTkaZfQUkWlCx8e3p&noverify=0&group_code=567655192？{nnnnnnnn}{www }”
+	] ,
+	“视频”：[		
+		“https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6ca3b42f2c7599de5c9fc44c8cb3537f.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042813/b20ad81c5974b066.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042722/df9976e2d1d76031.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023050615/f24b1997b7c8a46d.m3u8”，
+		“http：//black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893f17b55.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea19d335.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023050522/dae7be06d65201e9.m3u8”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cd668271c757aa5ef5bf555e47cf1c1.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042800/9ebe320102c53264.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/50b2596024f51b226300e44f4ec9706e.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2022073018/c8a9037c51e7b097.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/090b69c109245fddec9f40dd312d67a8.m3u8 ”，
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/0467bb653e73731260af766ebfb5571f.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cf718b93b8c6b50111f9b403d8633de.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6b7016930fd22d710e0c16368f2e0e33.m3u8",
@@ -59,8 +59,8 @@ var conf = {
 		"https://cti.zhuoxianyx.xyz/mu/tm/2022081319/1f596df4b0ee0497.m3u8",
 		"https://cti.zhuoxianyx.xyz/mu/tm/2023020521/2d9ca9fd7addb26b.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3d5e5c61d657d3f0d5747e06ab87d609.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023050615/e55a2bad29e4694d.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8",
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023050615/e55a2bad29e4694d.m3u8”,"https://cti.zhuoxianyx.xyz/mu/tm/2023050615/e55a2bad29e4694d.m3u8",
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8”，"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/031263e358dc3805c42a250182a4fa05.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/259f2aae4c0002d5d5f18d7397771155.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/69abc67eccec124e824f57d4c818c104.m3u8",
