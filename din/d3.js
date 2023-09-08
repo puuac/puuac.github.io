@@ -19,15 +19,15 @@ varconf = {  _
 	“准备好”：“http://cdnauth.ishanpiao.com/ciz?{nnnnnnnn}{www}”，
 	"btn2": "最新色播APP-点这下载",
 	“网址2”：[
-		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}”
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}”
 	] ,
 	"btn3": "VIP线路高清原创速度快秒打开",
 	“网址3”：[
-		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}”
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}”
 	] ,
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	“网址4”：[
-		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?s1v?{nnnnnnnn}{www}”
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}”
 	] ,
 	“视频”：[		
 		“https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8 ”，
