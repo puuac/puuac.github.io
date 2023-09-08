@@ -17,13 +17,13 @@ var conf = {
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}",
-	"btn2": "最新色播APP-点这下载",
+	"btn2": "VIP线路高清原创速度快秒打开",
 	"url2": [
-		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}"
+		"http:///q63HWmhJA3?AP4?{nnnnnnnn}{www}"
 	],
-	"btn3": "VIP线路高清原创速度快秒打开",
+	"btn3": "VIP线路2高清原创速度快秒打开",
 	"url3": [
-		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?{nnnnnnnn}{www}"
+		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?RPR?AP4?{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
