@@ -1,5 +1,5 @@
 //参数代码
-varconf = {  _
+varconf = {   _
 	“路径”：“0”，
 	“人口普查”：“1”，
 	“拒绝”：“0”，
@@ -19,7 +19,7 @@ varconf = {  _
 	“准备好”：“http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3？{nnnnnnnn}{www}”，
 	"btn2": "VIP线路高清原创速度快秒打开",
 	“网址2”：[
-		“http://h52.959628.cn.dsa.dnsv1.com.cn/JhM3AhJYjK?pJG?AP4?{nnnnnnnn}{www}”
+		“http://h52.959628.cn.dsa.dnsv1.com.cn/JhM3AhJYjK?pJG?AP4?{nnnnnnnn}{www }”
 	] ,
 	"btn3": "VIP线路2高清原创速度快秒打开",
 	“网址3”：[
@@ -27,7 +27,7 @@ varconf = {  _
 	] ,
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	“网址4”：[
-		“http：//qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Vo4KexbEqD72UU6c7NZ0S6STHxEhyGmu&authKey=5jWss4n1L4kXPLrO5rHBA0T0fVwv8fstfiYsKWpMilNk3IMGTkaZfQUkWlCx8e3p&nover ify =0&group_code=567655192?{nnnnnnnn}{www}"
+		“https://fi-1319973851.cos-website.ap-hengdu.myqcloud.com/?t=awjz?{nnnnnnnn}{www }”
 	] ,
 	“视频”：[		
 		“https://cti.zhuoxianyx.xyz/mu/tm/2022071709/f1cb1258b35bd6d4.m3u8 ”，
@@ -35,32 +35,32 @@ varconf = {  _
 		“https://cti.zhuoxianyx.xyz/mu/tm/2023042813/b20ad81c5974b066.m3u8 ”，
 		“https://cti.zhuoxianyx.xyz/mu/tm/2023042722/df9976e2d1d76031.m3u8 ”，
 		“https://cti.zhuoxianyx.xyz/mu/tm/2023050615/f24b1997b7c8a46d.m3u8”,“https://cti.zhuoxianyx.xyz/mu/tm/2023050615/f24b1997b7c8a46d.m3u8”，
-		“http：//black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m 3u8 ”，
-		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893f17b55.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893f17b55.m3u8”，
-		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea19d335.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea19d335.m3u8”，
+		“http： //black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3965e1cca89173df8ba5d8e2df10cf90.m 3u8”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893f17b55.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/553f6375b8c9a2ee8a09daa893 f17b5 5.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea19d335.m3u8”，“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/93bb4f5a85a3c15336112944ea 19d3 35.m3u8 ”，
 		“https://cti.zhuoxianyx.xyz/mu/tm/2023050522/dae7be06d65201e9.m3u8”，
-		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cd668271c757aa5ef5bf555e47cf1c1.m3u8”，
-		“https://cti.zhuoxianyx.xyz/mu/tm/2023042800/9ebe320102c53264.m3u8”，
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/50b2596024f51b226300e44f4ec9706e.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2022073018/c8a9037c51e7b097.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/090b69c109245fddec9f40dd312d67a8.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/0467bb653e73731260af766ebfb5571f.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cf718b93b8c6b50111f9b403d8633de.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6b7016930fd22d710e0c16368f2e0e33.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2022081013/96ed7df73cd1e888.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/896b8b40f8abe06ac801d484ffc3be1e.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/4359f4740b369e56372bc81a6bca0cda.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023013111/c48b944fde37765c.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/2f60a3fb7a0361b223eb268c111bdebe.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023042809/48db90cd70cc347a.m3u8",
-		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/91eae851c150c3929b7fd6ed2857faf5.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023042907/7cc133ce3bb8cd04.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2023050614/542d445199c332e5.m3u8",
-		"https://cti.zhuoxianyx.xyz/mu/tm/2022081319/1f596df4b0ee0497.m3u8",
-		“https://cti.zhuoxianyx.xyz/mu/tm/2023020521/2d9ca9fd7addb26b.m3u8”,"https://cti.zhuoxianyx.xyz/mu/tm/2023020521/2d9ca9fd7addb26b.m3u8",
-		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3d5e5c61d657d3f0d5747e06ab87d609.m3u8”，"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3d5e5c61d657d3f0d5747e06ab87d609.m3u8",
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cd668271c757aa5ef5bf555e47cf1c1.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042800/9ebe320102c53264.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/50b2596024f51b226300e44f4ec9706e.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2022073018/c8a9037c51e7b097.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/090b69c109245fddec9f40dd312d67a8.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/0467bb653e73731260af766ebfb5571f.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6cf718b93b8c6b50111f9b403d8633de.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/6b7016930fd22d710e0c16368f2e0e33.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2022081013/96ed7​​df73cd1e888.m3u8”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/896b8b40f8abe06ac801d484ffc3be1e.m3u8 ”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/4359f4740b369e56372bc81a6bca0cda.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023013111/c48b944fde37765c.m3u8”，
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/2f60a3fb7a0361b223eb268c111bdebe.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042809/48db90cd70cc347a.m3u8”，
+		“http:”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023042907/7cc133ce3bb8cd04.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023050614/542d445199c332e5.m3u8 ”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2022081319/1f596df4b0ee0497.m3u8”，
+		“https://cti.zhuoxianyx.xyz/mu/tm/2023020521/2d9ca9fd7addb26b.m3u8”,“https://cti.zhuoxianyx.xyz/mu/tm/2023020521/2d9ca9fd7addb26b.m3u8 ”,
+		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3d5e5c61d657d3f0d5747e06ab87d609.m3u8”，"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3d5e5c61d657d3f0d5747e06ab87 d609.m3u8“，
 		“https://cti.zhuoxianyx.xyz/mu/tm/2023050615/e55a2bad29e4694d.m3u8”,"https://cti.zhuoxianyx.xyz/mu/tm/2023050615/e55a2bad29e4694d.m3u8",
-		“http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8”，"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8",
+		“http：//black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m3u8”，"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/3905d6ee534127ac3715249add2cb112.m 3u8 ",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/031263e358dc3805c42a250182a4fa05.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/259f2aae4c0002d5d5f18d7397771155.m3u8",
 		"http://black.xn--2zyr5r3sgrvt.com/mu/tmnew/69abc67eccec124e824f57d4c818c104.m3u8",
