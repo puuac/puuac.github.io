@@ -9,7 +9,7 @@ var conf = {
 	"adth1": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
 	"adthe": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！",
 	"title": [
-		"❀全网最新精品合集❀"
+		"✷全网最新精品合集✷"
 	],
 	"topad": "https://sharechain.qq.com/ee12cfb9edbe6ebc31decba30283bd8f?{nnnnnnnn}{www}",
 	"sInfo": "没有观看次数了！\r\n\r\n①请复制转发到Q群或微信群 增加观看次数\r\n\r\n②每有一人打开你就增加5次\r\n\r\n③没有人打开不增加次数",
