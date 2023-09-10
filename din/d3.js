@@ -17,9 +17,9 @@ var conf = {
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
 	"ready": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3#{nnnnnnnn}{www}",
-	"btn2": "最新色播APP-点这下载",
+	"btn2": "VIP路线高清原创速度快",
 	"url2": [
-		"http://h52.959628.cn.dsa.dnsv1.com.cn/JhM3AhJYjK?pJG?AP4#{nnnnnnnn}{www}"
+		"http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?zmU#{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
