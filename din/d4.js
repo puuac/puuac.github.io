@@ -42,6 +42,8 @@ h	+= '</div>';
 h	+= '<div class="prompt" style="color:white;display:block;font-size: 12px;margin-left:10px;margin-top: 5px;">';
 h	+= '    <div>* 分享后需要通知好友进入分享页面才能获得刷新(观影)机会</div>';
 h	+= '    <div> * 每个好友进入后获得+'+conf.vadd+'次的刷新机会</div>';
+h	+= '    <div> * 复制链接发到群，1人点击看5部，10人点击看五十部</div>';
+h	+= '    <div> * 尽量发到多个活跃群，增加刷先次数和速度</div>';
 h	+= '</div>';
 h	+= '<span id="addreas" style="opacity:0;"></span>';
 h = h.replace(/\{city\}/gi,conf.city);
