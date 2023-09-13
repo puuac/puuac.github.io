@@ -19,11 +19,11 @@ var conf = {
 	"ready": "http://h52.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3#{nnnnnnnn}{www}",
 	"btn2": "VIP路线高清原创速度快",
 	"url2": [
-		"http://d305.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?lYl#{nnnnnnnn}{www}"
+		"http://d305.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?SEK#{nnnnnnnn}{www}"
 	],
 	"btn3": "VIP线路高清原创速度快秒打开",
 	"url3": [
-		"http://d304.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?7Ds#{nnnnnnnn}{www}"
+		"http://d304.959628.cn.dsa.dnsv1.com.cn/q63HWmhJA3?U49#{nnnnnnnn}{www}"
 	],
 	"btn4": "点 这 里 进 QQ 群 无 限 看",
 	"url4": [
